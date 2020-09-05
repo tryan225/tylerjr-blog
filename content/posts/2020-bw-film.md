@@ -7,6 +7,8 @@ featuredImage: "https://live.staticflickr.com/65535/50308197982_18cd0ee422_3k.jp
 
 I started taking black and white film photos earlier this year using two cameras; a Canon EOS Rebel G SLR with the zoom lens that came with it- and a [Nikon Teletouch](http://camera-wiki.org/wiki/Nikon_L35TWAF/L35TWAD/Tele%E2%80%A2Touch). The Nikon was a neat camera but unfortunately did not survive two bicycle accidents! 
 
+I used [Ilford hp5 Plus 400](https://www.ilfordphoto.com/hp5-plus-35mm) film for these photos.
+
 ### Kalamazoo
 
 ![East Hall](https://live.staticflickr.com/65535/50307374043_9ec3af33bb_3k.jpg)
